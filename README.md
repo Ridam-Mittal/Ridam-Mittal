@@ -57,5 +57,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ridam-mittal&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridam-mittal&" alt="GitHub Streak" />
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridam-mittal&" alt="GitHub Streak" /> -->
+<!--   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridam-mittal&theme=react-dark" alt="GitHub Activity Graph">
+
 </p>
