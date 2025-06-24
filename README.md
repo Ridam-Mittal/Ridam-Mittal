@@ -15,7 +15,8 @@
 
 ### 📫 How to reach me
 - **Email:** [ridam112004@gmail.com](mailto:ridam112004@gmail.com)
-- **Resume:** [View My Resume](https://drive.google.com/file/d/1Q1xx7CWocCuzUL2V_8BqV6s38BlC-hAu/view?usp=sharing)
+- **Resume:** [View My Resume](https://drive.google.com/file/d/1W2C8050oi4yBwsXl-KOXvgswq9xkDB1f/view?usp=sharing)
+- **Portfolio:** [ridam-portfolio](https://ridam-mittal.github.io/ridam-portfolio/)
 
 ---
 
